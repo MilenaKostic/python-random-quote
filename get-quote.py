@@ -1,4 +1,4 @@
-def funkcija():
+def funkcija2():
    print("Keep it logically awesome.")
 
   #f = open("quotes.txt")
@@ -8,4 +8,4 @@ def funkcija():
   #print(quotes)
 
 if __name__== "__main__":
-  funkcija()
+  funkcija2()
